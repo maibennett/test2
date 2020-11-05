@@ -11,7 +11,7 @@ knitr::opts_chunk$set(echo = TRUE)
 
 Voy a cambiar lineas en esta seccion, y tu cambia en la seccion de abajo.
 
-- [ESTE ES MI CAMBIO LALALA]
+
 
 ```{r cars}
 summary(cars)
@@ -26,3 +26,5 @@ plot(pressure)
 ```
 
 Note that the `echo = FALSE` parameter was added to the code chunk to prevent printing of the R code that generated the plot.
+
+- CAMBIA ESTA LINEA A CUALQUIER COSA
